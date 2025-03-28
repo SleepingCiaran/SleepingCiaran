@@ -8,14 +8,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" height="195" srcset="https://github-readme-stats.vercel.app/api?username=SleepingCiaran&show_icons=true&theme=dark#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" height="195" srcset="https://github-readme-stats.vercel.app/api?username=SleepingCiaran&show_icons=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" height="150" srcset="https://github-readme-stats.vercel.app/api?username=SleepingCiaran&show_icons=true&theme=dark#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" height="150" srcset="https://github-readme-stats.vercel.app/api?username=SleepingCiaran&show_icons=true&theme=default">
     <img alt="Ciaran's GitHub Stats">
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" height="195" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepingCiaran&layout=compact&theme=dark">
-    <source media="(prefers-color-scheme: light)" height="195" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepingCiaran&layout=compact&theme=default">
+    <source media="(prefers-color-scheme: dark)" height="150" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepingCiaran&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" height="150" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SleepingCiaran&layout=compact&theme=default">
     <img alt="Ciaran's Top Languages">
   </picture>
 </div>
